@@ -1,6 +1,6 @@
 package exercises;
 
-public class do_while {
+public class doWhile1 {
 
 	public static void main(String[] args) {
 		
